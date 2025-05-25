@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  text-align: center; /* 中央揃え */
+}
+
+.checklist {
+  display: inline-block; /* 中央揃え用 */
+  text-align: left; /* チェックボックスは左揃えに */
+}
